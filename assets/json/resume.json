@@ -1,200 +1,4425 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
-  "work": [
+  "results": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "filename": "AKSHITA_SHARMA's_RESUME.pdf",
+      "page_data": [
+        {
+          "page": 0,
+          "words": [
+            {
+              "text": "Akshita",
+              "xmin": 101,
+              "ymin": 104,
+              "xmax": 418,
+              "ymax": 176
+            },
+            {
+              "text": "Sharma",
+              "xmin": 452,
+              "ymin": 104,
+              "xmax": 786,
+              "ymax": 176
+            },
+            {
+              "text": "Machine",
+              "xmin": 107,
+              "ymin": 210,
+              "xmax": 279,
+              "ymax": 244
+            },
+            {
+              "text": "Learning",
+              "xmin": 299,
+              "ymin": 210,
+              "xmax": 477,
+              "ymax": 252
+            },
+            {
+              "text": "Engineer",
+              "xmin": 495,
+              "ymin": 210,
+              "xmax": 680,
+              "ymax": 252
+            },
+            {
+              "text": "Machine",
+              "xmin": 105,
+              "ymin": 279,
+              "xmax": 237,
+              "ymax": 303
+            },
+            {
+              "text": "Learning",
+              "xmin": 248,
+              "ymin": 279,
+              "xmax": 384,
+              "ymax": 310
+            },
+            {
+              "text": "Engineer",
+              "xmin": 396,
+              "ymin": 279,
+              "xmax": 537,
+              "ymax": 310
+            },
+            {
+              "text": "skilled",
+              "xmin": 547,
+              "ymin": 279,
+              "xmax": 640,
+              "ymax": 303
+            },
+            {
+              "text": "ir",
+              "xmin": 656,
+              "ymin": 280,
+              "xmax": 675,
+              "ymax": 303
+            },
+            {
+              "text": "developing",
+              "xmin": 689,
+              "ymin": 279,
+              "xmax": 859,
+              "ymax": 310
+            },
+            {
+              "text": "and",
+              "xmin": 872,
+              "ymin": 279,
+              "xmax": 926,
+              "ymax": 303
+            },
+            {
+              "text": "productionizing",
+              "xmin": 939,
+              "ymin": 279,
+              "xmax": 1173,
+              "ymax": 310
+            },
+            {
+              "text": "robust",
+              "xmin": 1186,
+              "ymin": 279,
+              "xmax": 1280,
+              "ymax": 304
+            },
+            {
+              "text": "solutions",
+              "xmin": 1292,
+              "ymin": 280,
+              "xmax": 1426,
+              "ymax": 303
+            },
+            {
+              "text": "using",
+              "xmin": 1440,
+              "ymin": 280,
+              "xmax": 1519,
+              "ymax": 310
+            },
+            {
+              "text": "NLP",
+              "xmin": 1532,
+              "ymin": 279,
+              "xmax": 1592,
+              "ymax": 304
+            },
+            {
+              "text": "techniques",
+              "xmin": 1605,
+              "ymin": 280,
+              "xmax": 1773,
+              "ymax": 307
+            },
+            {
+              "text": "for",
+              "xmin": 1784,
+              "ymin": 278,
+              "xmax": 1823,
+              "ymax": 304
+            },
+            {
+              "text": "deep",
+              "xmin": 1834,
+              "ymin": 279,
+              "xmax": 1913,
+              "ymax": 310
+            },
+            {
+              "text": "learning",
+              "xmin": 1925,
+              "ymin": 278,
+              "xmax": 2055,
+              "ymax": 310
+            },
+            {
+              "text": "applications",
+              "xmin": 2065,
+              "ymin": 280,
+              "xmax": 2253,
+              "ymax": 310
+            },
+            {
+              "text": "Proficient",
+              "xmin": 106,
+              "ymin": 319,
+              "xmax": 245,
+              "ymax": 344
+            },
+            {
+              "text": "in",
+              "xmin": 259,
+              "ymin": 321,
+              "xmax": 278,
+              "ymax": 344
+            },
+            {
+              "text": "Natural",
+              "xmin": 292,
+              "ymin": 319,
+              "xmax": 411,
+              "ymax": 345
+            },
+            {
+              "text": "Language",
+              "xmin": 420,
+              "ymin": 320,
+              "xmax": 578,
+              "ymax": 351
+            },
+            {
+              "text": "Processing",
+              "xmin": 589,
+              "ymin": 320,
+              "xmax": 760,
+              "ymax": 351
+            },
+            {
+              "text": "(NLP",
+              "xmin": 772,
+              "ymin": 320,
+              "xmax": 844,
+              "ymax": 344
+            },
+            {
+              "text": "techniques",
+              "xmin": 864,
+              "ymin": 321,
+              "xmax": 1033,
+              "ymax": 345
+            },
+            {
+              "text": "with",
+              "xmin": 1050,
+              "ymin": 321,
+              "xmax": 1111,
+              "ymax": 344
+            },
+            {
+              "text": "a",
+              "xmin": 1123,
+              "ymin": 326,
+              "xmax": 1137,
+              "ymax": 342
+            },
+            {
+              "text": "record",
+              "xmin": 1151,
+              "ymin": 320,
+              "xmax": 1244,
+              "ymax": 345
+            },
+            {
+              "text": "of",
+              "xmin": 1259,
+              "ymin": 319,
+              "xmax": 1288,
+              "ymax": 344
+            },
+            {
+              "text": "implementing",
+              "xmin": 1299,
+              "ymin": 311,
+              "xmax": 1508,
+              "ymax": 351
+            },
+            {
+              "text": "effective",
+              "xmin": 1521,
+              "ymin": 321,
+              "xmax": 1650,
+              "ymax": 345
+            },
+            {
+              "text": "models",
+              "xmin": 1661,
+              "ymin": 320,
+              "xmax": 1772,
+              "ymax": 345
+            },
+            {
+              "text": "for",
+              "xmin": 1784,
+              "ymin": 319,
+              "xmax": 1823,
+              "ymax": 345
+            },
+            {
+              "text": "language-",
+              "xmin": 1834,
+              "ymin": 321,
+              "xmax": 1989,
+              "ymax": 351
+            },
+            {
+              "text": "relatec",
+              "xmin": 1989,
+              "ymin": 321,
+              "xmax": 2095,
+              "ymax": 344
+            },
+            {
+              "text": "tasks",
+              "xmin": 2110,
+              "ymin": 321,
+              "xmax": 2187,
+              "ymax": 345
+            },
+            {
+              "text": "Skilled",
+              "xmin": 2204,
+              "ymin": 320,
+              "xmax": 2302,
+              "ymax": 345
+            },
+            {
+              "text": "in",
+              "xmin": 2317,
+              "ymin": 321,
+              "xmax": 2340,
+              "ymax": 344
+            },
+            {
+              "text": "the",
+              "xmin": 105,
+              "ymin": 362,
+              "xmax": 149,
+              "ymax": 385
+            },
+            {
+              "text": "technical",
+              "xmin": 163,
+              "ymin": 362,
+              "xmax": 300,
+              "ymax": 385
+            },
+            {
+              "text": "nuances",
+              "xmin": 313,
+              "ymin": 367,
+              "xmax": 438,
+              "ymax": 386
+            },
+            {
+              "text": "of",
+              "xmin": 451,
+              "ymin": 360,
+              "xmax": 482,
+              "ymax": 385
+            },
+            {
+              "text": "prompt",
+              "xmin": 486,
+              "ymin": 352,
+              "xmax": 605,
+              "ymax": 392
+            },
+            {
+              "text": "engineering",
+              "xmin": 615,
+              "ymin": 361,
+              "xmax": 805,
+              "ymax": 392
+            },
+            {
+              "text": "demonstrating",
+              "xmin": 823,
+              "ymin": 361,
+              "xmax": 1046,
+              "ymax": 392
+            },
+            {
+              "text": "a",
+              "xmin": 1057,
+              "ymin": 367,
+              "xmax": 1073,
+              "ymax": 386
+            },
+            {
+              "text": "strong",
+              "xmin": 1084,
+              "ymin": 363,
+              "xmax": 1178,
+              "ymax": 392
+            },
+            {
+              "text": "command",
+              "xmin": 1190,
+              "ymin": 361,
+              "xmax": 1343,
+              "ymax": 386
+            },
+            {
+              "text": "of",
+              "xmin": 1356,
+              "ymin": 360,
+              "xmax": 1387,
+              "ymax": 386
+            },
+            {
+              "text": "machine",
+              "xmin": 1396,
+              "ymin": 362,
+              "xmax": 1524,
+              "ymax": 386
+            },
+            {
+              "text": "learning",
+              "xmin": 1538,
+              "ymin": 362,
+              "xmax": 1658,
+              "ymax": 392
+            },
+            {
+              "text": "principles",
+              "xmin": 1671,
+              "ymin": 362,
+              "xmax": 1817,
+              "ymax": 392
+            },
+            {
+              "text": "to",
+              "xmin": 1829,
+              "ymin": 363,
+              "xmax": 1857,
+              "ymax": 386
+            },
+            {
+              "text": "drive",
+              "xmin": 1867,
+              "ymin": 361,
+              "xmax": 1939,
+              "ymax": 385
+            },
+            {
+              "text": "innovative",
+              "xmin": 1954,
+              "ymin": 362,
+              "xmax": 2103,
+              "ymax": 385
+            },
+            {
+              "text": "solutions",
+              "xmin": 2117,
+              "ymin": 362,
+              "xmax": 2251,
+              "ymax": 385
+            },
+            {
+              "text": "akshita",
+              "xmin": 215,
+              "ymin": 511,
+              "xmax": 320,
+              "ymax": 534
+            },
+            {
+              "text": "horizonagmailcom",
+              "xmin": 324,
+              "ymin": 511,
+              "xmax": 627,
+              "ymax": 540
+            },
+            {
+              "text": "+919682667547",
+              "xmin": 791,
+              "ymin": 510,
+              "xmax": 1030,
+              "ymax": 537
+            },
+            {
+              "text": "C",
+              "xmin": 1138,
+              "ymin": 502,
+              "xmax": 1154,
+              "ymax": 521
+            },
+            {
+              "text": "o",
+              "xmin": 741,
+              "ymin": 537,
+              "xmax": 748,
+              "ymax": 543
+            },
+            {
+              "text": "Bangalore",
+              "xmin": 1192,
+              "ymin": 510,
+              "xmax": 1346,
+              "ymax": 540
+            },
+            {
+              "text": "India",
+              "xmin": 1366,
+              "ymin": 510,
+              "xmax": 1435,
+              "ymax": 533
+            },
+            {
+              "text": "in",
+              "xmin": 1524,
+              "ymin": 508,
+              "xmax": 1563,
+              "ymax": 543
+            },
+            {
+              "text": "linkedincom/in/akshita-sharma",
+              "xmin": 1598,
+              "ymin": 510,
+              "xmax": 2096,
+              "ymax": 535
+            },
+            {
+              "text": "-707a91134",
+              "xmin": 2095,
+              "ymin": 514,
+              "xmax": 2260,
+              "ymax": 536
+            },
+            {
+              "text": "WORK",
+              "xmin": 104,
+              "ymin": 635,
+              "xmax": 281,
+              "ymax": 675
+            },
+            {
+              "text": "EXPERIENCE",
+              "xmin": 300,
+              "ymin": 635,
+              "xmax": 645,
+              "ymax": 675
+            },
+            {
+              "text": "SKILLS",
+              "xmin": 1587,
+              "ymin": 635,
+              "xmax": 1777,
+              "ymax": 675
+            },
+            {
+              "text": "Machine",
+              "xmin": 107,
+              "ymin": 726,
+              "xmax": 288,
+              "ymax": 759
+            },
+            {
+              "text": "Learning",
+              "xmin": 304,
+              "ymin": 726,
+              "xmax": 490,
+              "ymax": 769
+            },
+            {
+              "text": "Engineer",
+              "xmin": 507,
+              "ymin": 726,
+              "xmax": 698,
+              "ymax": 769
+            },
+            {
+              "text": "NLP",
+              "xmin": 1617,
+              "ymin": 741,
+              "xmax": 1677,
+              "ymax": 765
+            },
+            {
+              "text": "Deep",
+              "xmin": 1768,
+              "ymin": 741,
+              "xmax": 1848,
+              "ymax": 771
+            },
+            {
+              "text": "Learning",
+              "xmin": 1860,
+              "ymin": 742,
+              "xmax": 1990,
+              "ymax": 773
+            },
+            {
+              "text": "GenAl",
+              "xmin": 2080,
+              "ymin": 741,
+              "xmax": 2169,
+              "ymax": 766
+            },
+            {
+              "text": "Engati",
+              "xmin": 107,
+              "ymin": 779,
+              "xmax": 233,
+              "ymax": 821
+            },
+            {
+              "text": "11/2022",
+              "xmin": 104,
+              "ymin": 840,
+              "xmax": 204,
+              "ymax": 862
+            },
+            {
+              "text": "Present",
+              "xmin": 234,
+              "ymin": 840,
+              "xmax": 330,
+              "ymax": 862
+            },
+            {
+              "text": "Bangalore",
+              "xmin": 1291,
+              "ymin": 840,
+              "xmax": 1426,
+              "ymax": 865
+            },
+            {
+              "text": "Prompt",
+              "xmin": 1617,
+              "ymin": 822,
+              "xmax": 1727,
+              "ymax": 849
+            },
+            {
+              "text": "Engineering",
+              "xmin": 1739,
+              "ymin": 822,
+              "xmax": 1919,
+              "ymax": 855
+            },
+            {
+              "text": "TensorFlow",
+              "xmin": 2008,
+              "ymin": 822,
+              "xmax": 2183,
+              "ymax": 845
+            },
+            {
+              "text": "Achievements/",
+              "xmin": 103,
+              "ymin": 890,
+              "xmax": 303,
+              "ymax": 911
+            },
+            {
+              "text": "Tasks",
+              "xmin": 304,
+              "ymin": 889,
+              "xmax": 379,
+              "ymax": 911
+            },
+            {
+              "text": "Analyzer",
+              "xmin": 737,
+              "ymin": 931,
+              "xmax": 876,
+              "ymax": 964
+            },
+            {
+              "text": "service",
+              "xmin": 884,
+              "ymin": 932,
+              "xmax": 997,
+              "ymax": 956
+            },
+            {
+              "text": "integrates",
+              "xmin": 1080,
+              "ymin": 933,
+              "xmax": 1230,
+              "ymax": 962
+            },
+            {
+              "text": "Hugging",
+              "xmin": 1617,
+              "ymin": 904,
+              "xmax": 1745,
+              "ymax": 934
+            },
+            {
+              "text": "Face",
+              "xmin": 1758,
+              "ymin": 903,
+              "xmax": 1828,
+              "ymax": 927
+            },
+            {
+              "text": "Microservice",
+              "xmin": 1918,
+              "ymin": 904,
+              "xmax": 2110,
+              "ymax": 928
+            },
+            {
+              "text": "Python",
+              "xmin": 2198,
+              "ymin": 903,
+              "xmax": 2302,
+              "ymax": 929
+            },
+            {
+              "text": "o",
+              "xmin": 102,
+              "ymin": 931,
+              "xmax": 115,
+              "ymax": 945
+            },
+            {
+              "text": "Designed",
+              "xmin": 143,
+              "ymin": 932,
+              "xmax": 285,
+              "ymax": 962
+            },
+            {
+              "text": "and",
+              "xmin": 297,
+              "ymin": 932,
+              "xmax": 351,
+              "ymax": 956
+            },
+            {
+              "text": "developed",
+              "xmin": 363,
+              "ymin": 932,
+              "xmax": 526,
+              "ymax": 962
+            },
+            {
+              "text": "a",
+              "xmin": 538,
+              "ymin": 938,
+              "xmax": 551,
+              "ymax": 954
+            },
+            {
+              "text": "Sentiment",
+              "xmin": 566,
+              "ymin": 932,
+              "xmax": 729,
+              "ymax": 956
+            },
+            {
+              "text": "that",
+              "xmin": 1010,
+              "ymin": 933,
+              "xmax": 1068,
+              "ymax": 956
+            },
+            {
+              "text": "with",
+              "xmin": 1241,
+              "ymin": 933,
+              "xmax": 1300,
+              "ymax": 955
+            },
+            {
+              "text": "our",
+              "xmin": 1314,
+              "ymin": 938,
+              "xmax": 1363,
+              "ymax": 955
+            },
+            {
+              "text": "system",
+              "xmin": 142,
+              "ymin": 965,
+              "xmax": 249,
+              "ymax": 1004
+            },
+            {
+              "text": "through",
+              "xmin": 262,
+              "ymin": 974,
+              "xmax": 380,
+              "ymax": 1006
+            },
+            {
+              "text": "an",
+              "xmin": 392,
+              "ymin": 979,
+              "xmax": 425,
+              "ymax": 997
+            },
+            {
+              "text": "established",
+              "xmin": 438,
+              "ymin": 973,
+              "xmax": 611,
+              "ymax": 997
+            },
+            {
+              "text": "Kafka",
+              "xmin": 624,
+              "ymin": 972,
+              "xmax": 712,
+              "ymax": 997
+            },
+            {
+              "text": "pipeline",
+              "xmin": 724,
+              "ymin": 974,
+              "xmax": 843,
+              "ymax": 1003
+            },
+            {
+              "text": "This",
+              "xmin": 860,
+              "ymin": 973,
+              "xmax": 919,
+              "ymax": 996
+            },
+            {
+              "text": "service",
+              "xmin": 932,
+              "ymin": 974,
+              "xmax": 1039,
+              "ymax": 997
+            },
+            {
+              "text": "feds",
+              "xmin": 1050,
+              "ymin": 972,
+              "xmax": 1115,
+              "ymax": 997
+            },
+            {
+              "text": "user",
+              "xmin": 1125,
+              "ymin": 979,
+              "xmax": 1190,
+              "ymax": 996
+            },
+            {
+              "text": "queries",
+              "xmin": 1199,
+              "ymin": 974,
+              "xmax": 1313,
+              "ymax": 1000
+            },
+            {
+              "text": "to",
+              "xmin": 1323,
+              "ymin": 975,
+              "xmax": 1350,
+              "ymax": 996
+            },
+            {
+              "text": "System",
+              "xmin": 1616,
+              "ymin": 984,
+              "xmax": 1726,
+              "ymax": 1013
+            },
+            {
+              "text": "Twitter",
+              "xmin": 140,
+              "ymin": 1014,
+              "xmax": 251,
+              "ymax": 1037
+            },
+            {
+              "text": "Roberta",
+              "xmin": 262,
+              "ymin": 1014,
+              "xmax": 386,
+              "ymax": 1039
+            },
+            {
+              "text": "sentiment",
+              "xmin": 396,
+              "ymin": 1014,
+              "xmax": 556,
+              "ymax": 1039
+            },
+            {
+              "text": "model",
+              "xmin": 568,
+              "ymin": 1014,
+              "xmax": 665,
+              "ymax": 1039
+            },
+            {
+              "text": "for",
+              "xmin": 675,
+              "ymin": 1013,
+              "xmax": 714,
+              "ymax": 1039
+            },
+            {
+              "text": "Design",
+              "xmin": 1740,
+              "ymin": 984,
+              "xmax": 1843,
+              "ymax": 1017
+            },
+            {
+              "text": "our",
+              "xmin": 723,
+              "ymin": 1021,
+              "xmax": 773,
+              "ymax": 1037
+            },
+            {
+              "text": "specific",
+              "xmin": 783,
+              "ymin": 1013,
+              "xmax": 895,
+              "ymax": 1045
+            },
+            {
+              "text": "product",
+              "xmin": 909,
+              "ymin": 1014,
+              "xmax": 1027,
+              "ymax": 1045
+            },
+            {
+              "text": "use",
+              "xmin": 1038,
+              "ymin": 1020,
+              "xmax": 1089,
+              "ymax": 1037
+            },
+            {
+              "text": "case",
+              "xmin": 1101,
+              "ymin": 1020,
+              "xmax": 1170,
+              "ymax": 1039
+            },
+            {
+              "text": "This",
+              "xmin": 1188,
+              "ymin": 1014,
+              "xmax": 1245,
+              "ymax": 1037
+            },
+            {
+              "text": "feature",
+              "xmin": 1260,
+              "ymin": 1013,
+              "xmax": 1364,
+              "ymax": 1039
+            },
+            {
+              "text": "allows",
+              "xmin": 141,
+              "ymin": 1055,
+              "xmax": 237,
+              "ymax": 1078
+            },
+            {
+              "text": "user",
+              "xmin": 249,
+              "ymin": 1061,
+              "xmax": 313,
+              "ymax": 1078
+            },
+            {
+              "text": "to",
+              "xmin": 324,
+              "ymin": 1056,
+              "xmax": 349,
+              "ymax": 1078
+            },
+            {
+              "text": "analyze",
+              "xmin": 362,
+              "ymin": 1053,
+              "xmax": 485,
+              "ymax": 1082
+            },
+            {
+              "text": "the",
+              "xmin": 494,
+              "ymin": 1055,
+              "xmax": 543,
+              "ymax": 1079
+            },
+            {
+              "text": "sentiments",
+              "xmin": 553,
+              "ymin": 1055,
+              "xmax": 719,
+              "ymax": 1078
+            },
+            {
+              "text": "of",
+              "xmin": 731,
+              "ymin": 1053,
+              "xmax": 760,
+              "ymax": 1078
+            },
+            {
+              "text": "their",
+              "xmin": 770,
+              "ymin": 1055,
+              "xmax": 837,
+              "ymax": 1078
+            },
+            {
+              "text": "end",
+              "xmin": 847,
+              "ymin": 1054,
+              "xmax": 902,
+              "ymax": 1079
+            },
+            {
+              "text": "users",
+              "xmin": 915,
+              "ymin": 1060,
+              "xmax": 993,
+              "ymax": 1078
+            },
+            {
+              "text": "Machine",
+              "xmin": 1617,
+              "ymin": 1066,
+              "xmax": 1746,
+              "ymax": 1090
+            },
+            {
+              "text": "Learning",
+              "xmin": 1757,
+              "ymin": 1066,
+              "xmax": 1885,
+              "ymax": 1096
+            },
+            {
+              "text": "Techniques",
+              "xmin": 1898,
+              "ymin": 1065,
+              "xmax": 2071,
+              "ymax": 1092
+            },
+            {
+              "text": ":",
+              "xmin": 102,
+              "ymin": 1108,
+              "xmax": 120,
+              "ymax": 1125
+            },
+            {
+              "text": "Ir",
+              "xmin": 143,
+              "ymin": 1109,
+              "xmax": 163,
+              "ymax": 1130
+            },
+            {
+              "text": "charge",
+              "xmin": 178,
+              "ymin": 1109,
+              "xmax": 282,
+              "ymax": 1140
+            },
+            {
+              "text": "of",
+              "xmin": 292,
+              "ymin": 1108,
+              "xmax": 322,
+              "ymax": 1133
+            },
+            {
+              "text": "developing",
+              "xmin": 331,
+              "ymin": 1108,
+              "xmax": 501,
+              "ymax": 1140
+            },
+            {
+              "text": "a",
+              "xmin": 513,
+              "ymin": 1115,
+              "xmax": 526,
+              "ymax": 1132
+            },
+            {
+              "text": "pipeline",
+              "xmin": 541,
+              "ymin": 1109,
+              "xmax": 660,
+              "ymax": 1137
+            },
+            {
+              "text": "to",
+              "xmin": 672,
+              "ymin": 1110,
+              "xmax": 697,
+              "ymax": 1130
+            },
+            {
+              "text": "specifically",
+              "xmin": 711,
+              "ymin": 1108,
+              "xmax": 880,
+              "ymax": 1137
+            },
+            {
+              "text": "support",
+              "xmin": 890,
+              "ymin": 1110,
+              "xmax": 1008,
+              "ymax": 1137
+            },
+            {
+              "text": "the",
+              "xmin": 1018,
+              "ymin": 1109,
+              "xmax": 1066,
+              "ymax": 1133
+            },
+            {
+              "text": "Bahasa",
+              "xmin": 1077,
+              "ymin": 1108,
+              "xmax": 1192,
+              "ymax": 1133
+            },
+            {
+              "text": "language",
+              "xmin": 1203,
+              "ymin": 1109,
+              "xmax": 1343,
+              "ymax": 1140
+            },
+            {
+              "text": "a",
+              "xmin": 1362,
+              "ymin": 1114,
+              "xmax": 1376,
+              "ymax": 1129
+            },
+            {
+              "text": "dedicated",
+              "xmin": 142,
+              "ymin": 1141,
+              "xmax": 293,
+              "ymax": 1174
+            },
+            {
+              "text": "service",
+              "xmin": 307,
+              "ymin": 1150,
+              "xmax": 412,
+              "ymax": 1174
+            },
+            {
+              "text": "was",
+              "xmin": 424,
+              "ymin": 1156,
+              "xmax": 481,
+              "ymax": 1174
+            },
+            {
+              "text": "established",
+              "xmin": 490,
+              "ymin": 1141,
+              "xmax": 669,
+              "ymax": 1174
+            },
+            {
+              "text": "researched",
+              "xmin": 704,
+              "ymin": 1140,
+              "xmax": 880,
+              "ymax": 1174
+            },
+            {
+              "text": "models",
+              "xmin": 892,
+              "ymin": 1149,
+              "xmax": 1003,
+              "ymax": 1173
+            },
+            {
+              "text": "such",
+              "xmin": 1016,
+              "ymin": 1150,
+              "xmax": 1085,
+              "ymax": 1174
+            },
+            {
+              "text": "as",
+              "xmin": 1098,
+              "ymin": 1155,
+              "xmax": 1129,
+              "ymax": 1174
+            },
+            {
+              "text": "paraphrase",
+              "xmin": 1141,
+              "ymin": 1149,
+              "xmax": 1330,
+              "ymax": 1177
+            },
+            {
+              "text": "multilingual-mpnet-base-v2",
+              "xmin": 142,
+              "ymin": 1189,
+              "xmax": 592,
+              "ymax": 1219
+            },
+            {
+              "text": "all-mini-l12-v2",
+              "xmin": 609,
+              "ymin": 1189,
+              "xmax": 837,
+              "ymax": 1213
+            },
+            {
+              "text": "and",
+              "xmin": 858,
+              "ymin": 1190,
+              "xmax": 912,
+              "ymax": 1215
+            },
+            {
+              "text": "others",
+              "xmin": 925,
+              "ymin": 1191,
+              "xmax": 1018,
+              "ymax": 1215
+            },
+            {
+              "text": "o",
+              "xmin": 102,
+              "ymin": 1243,
+              "xmax": 115,
+              "ymax": 1258
+            },
+            {
+              "text": "Developed",
+              "xmin": 142,
+              "ymin": 1243,
+              "xmax": 312,
+              "ymax": 1272
+            },
+            {
+              "text": "an",
+              "xmin": 324,
+              "ymin": 1250,
+              "xmax": 358,
+              "ymax": 1267
+            },
+            {
+              "text": "Al",
+              "xmin": 369,
+              "ymin": 1243,
+              "xmax": 398,
+              "ymax": 1267
+            },
+            {
+              "text": "feature",
+              "xmin": 409,
+              "ymin": 1242,
+              "xmax": 522,
+              "ymax": 1267
+            },
+            {
+              "text": "that",
+              "xmin": 534,
+              "ymin": 1244,
+              "xmax": 592,
+              "ymax": 1269
+            },
+            {
+              "text": "allows",
+              "xmin": 602,
+              "ymin": 1244,
+              "xmax": 697,
+              "ymax": 1267
+            },
+            {
+              "text": "product",
+              "xmin": 710,
+              "ymin": 1243,
+              "xmax": 828,
+              "ymax": 1272
+            },
+            {
+              "text": "users",
+              "xmin": 839,
+              "ymin": 1249,
+              "xmax": 917,
+              "ymax": 1267
+            },
+            {
+              "text": "to",
+              "xmin": 931,
+              "ymin": 1245,
+              "xmax": 955,
+              "ymax": 1267
+            },
+            {
+              "text": "generate",
+              "xmin": 969,
+              "ymin": 1245,
+              "xmax": 1107,
+              "ymax": 1274
+            },
+            {
+              "text": "summaries",
+              "xmin": 1119,
+              "ymin": 1244,
+              "xmax": 1285,
+              "ymax": 1268
+            },
+            {
+              "text": "for",
+              "xmin": 1297,
+              "ymin": 1242,
+              "xmax": 1336,
+              "ymax": 1267
+            },
+            {
+              "text": "entire",
+              "xmin": 1346,
+              "ymin": 1244,
+              "xmax": 1429,
+              "ymax": 1267
+            },
+            {
+              "text": "WORKED",
+              "xmin": 1586,
+              "ymin": 1237,
+              "xmax": 1837,
+              "ymax": 1278
+            },
+            {
+              "text": "ON",
+              "xmin": 1858,
+              "ymin": 1237,
+              "xmax": 1941,
+              "ymax": 1276
+            },
+            {
+              "text": "conversations",
+              "xmin": 141,
+              "ymin": 1285,
+              "xmax": 352,
+              "ymax": 1309
+            },
+            {
+              "text": "with",
+              "xmin": 363,
+              "ymin": 1285,
+              "xmax": 424,
+              "ymax": 1309
+            },
+            {
+              "text": "end-users",
+              "xmin": 437,
+              "ymin": 1284,
+              "xmax": 590,
+              "ymax": 1309
+            },
+            {
+              "text": "with",
+              "xmin": 609,
+              "ymin": 1285,
+              "xmax": 668,
+              "ymax": 1309
+            },
+            {
+              "text": "the",
+              "xmin": 682,
+              "ymin": 1285,
+              "xmax": 729,
+              "ymax": 1309
+            },
+            {
+              "text": "additional",
+              "xmin": 741,
+              "ymin": 1284,
+              "xmax": 891,
+              "ymax": 1309
+            },
+            {
+              "text": "capability",
+              "xmin": 886,
+              "ymin": 1284,
+              "xmax": 1046,
+              "ymax": 1313
+            },
+            {
+              "text": "of",
+              "xmin": 1055,
+              "ymin": 1284,
+              "xmax": 1086,
+              "ymax": 1309
+            },
+            {
+              "text": "obtaining",
+              "xmin": 1095,
+              "ymin": 1284,
+              "xmax": 1232,
+              "ymax": 1314
+            },
+            {
+              "text": "explanations",
+              "xmin": 142,
+              "ymin": 1326,
+              "xmax": 333,
+              "ymax": 1352
+            },
+            {
+              "text": "for",
+              "xmin": 345,
+              "ymin": 1325,
+              "xmax": 384,
+              "ymax": 1350
+            },
+            {
+              "text": "specific",
+              "xmin": 394,
+              "ymin": 1325,
+              "xmax": 507,
+              "ymax": 1354
+            },
+            {
+              "text": "end",
+              "xmin": 520,
+              "ymin": 1325,
+              "xmax": 588,
+              "ymax": 1350
+            },
+            {
+              "text": "-user",
+              "xmin": 583,
+              "ymin": 1332,
+              "xmax": 658,
+              "ymax": 1350
+            },
+            {
+              "text": "queries",
+              "xmin": 667,
+              "ymin": 1326,
+              "xmax": 779,
+              "ymax": 1352
+            },
+            {
+              "text": "This",
+              "xmin": 797,
+              "ymin": 1325,
+              "xmax": 856,
+              "ymax": 1350
+            },
+            {
+              "text": "involved",
+              "xmin": 869,
+              "ymin": 1326,
+              "xmax": 991,
+              "ymax": 1350
+            },
+            {
+              "text": "the",
+              "xmin": 1006,
+              "ymin": 1326,
+              "xmax": 1054,
+              "ymax": 1350
+            },
+            {
+              "text": "creation",
+              "xmin": 1064,
+              "ymin": 1326,
+              "xmax": 1185,
+              "ymax": 1350
+            },
+            {
+              "text": "of",
+              "xmin": 1198,
+              "ymin": 1325,
+              "xmax": 1227,
+              "ymax": 1350
+            },
+            {
+              "text": "REST",
+              "xmin": 1236,
+              "ymin": 1325,
+              "xmax": 1315,
+              "ymax": 1348
+            },
+            {
+              "text": "APIs",
+              "xmin": 1323,
+              "ymin": 1325,
+              "xmax": 1388,
+              "ymax": 1350
+            },
+            {
+              "text": "Sentence",
+              "xmin": 1587,
+              "ymin": 1325,
+              "xmax": 1748,
+              "ymax": 1351
+            },
+            {
+              "text": "Transformers",
+              "xmin": 1760,
+              "ymin": 1324,
+              "xmax": 1981,
+              "ymax": 1351
+            },
+            {
+              "text": "integrating",
+              "xmin": 143,
+              "ymin": 1367,
+              "xmax": 304,
+              "ymax": 1398
+            },
+            {
+              "text": "GPT",
+              "xmin": 316,
+              "ymin": 1366,
+              "xmax": 380,
+              "ymax": 1391
+            },
+            {
+              "text": "APIS",
+              "xmin": 388,
+              "ymin": 1366,
+              "xmax": 455,
+              "ymax": 1389
+            },
+            {
+              "text": "through",
+              "xmin": 468,
+              "ymin": 1367,
+              "xmax": 586,
+              "ymax": 1398
+            },
+            {
+              "text": "the",
+              "xmin": 598,
+              "ymin": 1367,
+              "xmax": 644,
+              "ymax": 1391
+            },
+            {
+              "text": "OpenAl",
+              "xmin": 656,
+              "ymin": 1366,
+              "xmax": 772,
+              "ymax": 1395
+            },
+            {
+              "text": "library,",
+              "xmin": 784,
+              "ymin": 1366,
+              "xmax": 881,
+              "ymax": 1395
+            },
+            {
+              "text": "and",
+              "xmin": 893,
+              "ymin": 1366,
+              "xmax": 948,
+              "ymax": 1391
+            },
+            {
+              "text": "prompt",
+              "xmin": 960,
+              "ymin": 1368,
+              "xmax": 1076,
+              "ymax": 1395
+            },
+            {
+              "text": "techniques",
+              "xmin": 1086,
+              "ymin": 1367,
+              "xmax": 1255,
+              "ymax": 1392
+            },
+            {
+              "text": "in",
+              "xmin": 1266,
+              "ymin": 1367,
+              "xmax": 1287,
+              "ymax": 1388
+            },
+            {
+              "text": "the",
+              "xmin": 1300,
+              "ymin": 1367,
+              "xmax": 1347,
+              "ymax": 1391
+            },
+            {
+              "text": "backend",
+              "xmin": 143,
+              "ymin": 1398,
+              "xmax": 272,
+              "ymax": 1432
+            },
+            {
+              "text": "AI/ML",
+              "xmin": 1587,
+              "ymin": 1404,
+              "xmax": 1696,
+              "ymax": 1430
+            },
+            {
+              "text": "solutions",
+              "xmin": 1707,
+              "ymin": 1403,
+              "xmax": 1858,
+              "ymax": 1430
+            },
+            {
+              "text": "for",
+              "xmin": 1871,
+              "ymin": 1403,
+              "xmax": 1915,
+              "ymax": 1431
+            },
+            {
+              "text": "E.com",
+              "xmin": 1927,
+              "ymin": 1404,
+              "xmax": 2025,
+              "ymax": 1430
+            },
+            {
+              "text": "Medical",
+              "xmin": 2051,
+              "ymin": 1403,
+              "xmax": 2184,
+              "ymax": 1430
+            },
+            {
+              "text": "etc",
+              "xmin": 2204,
+              "ymin": 1404,
+              "xmax": 2255,
+              "ymax": 1430
+            },
+            {
+              "text": "o",
+              "xmin": 103,
+              "ymin": 1460,
+              "xmax": 115,
+              "ymax": 1474
+            },
+            {
+              "text": "Researched",
+              "xmin": 142,
+              "ymin": 1460,
+              "xmax": 326,
+              "ymax": 1485
+            },
+            {
+              "text": "and",
+              "xmin": 338,
+              "ymin": 1460,
+              "xmax": 394,
+              "ymax": 1484
+            },
+            {
+              "text": "developed",
+              "xmin": 405,
+              "ymin": 1459,
+              "xmax": 573,
+              "ymax": 1488
+            },
+            {
+              "text": "the",
+              "xmin": 586,
+              "ymin": 1461,
+              "xmax": 633,
+              "ymax": 1485
+            },
+            {
+              "text": "Generative",
+              "xmin": 644,
+              "ymin": 1460,
+              "xmax": 817,
+              "ymax": 1485
+            },
+            {
+              "text": "AlDocusense",
+              "xmin": 825,
+              "ymin": 1460,
+              "xmax": 1041,
+              "ymax": 1485
+            },
+            {
+              "text": "feature",
+              "xmin": 1052,
+              "ymin": 1460,
+              "xmax": 1159,
+              "ymax": 1485
+            },
+            {
+              "text": "allow",
+              "xmin": 1176,
+              "ymin": 1461,
+              "xmax": 1256,
+              "ymax": 1484
+            },
+            {
+              "text": "ving",
+              "xmin": 1253,
+              "ymin": 1461,
+              "xmax": 1302,
+              "ymax": 1491
+            },
+            {
+              "text": "users",
+              "xmin": 1316,
+              "ymin": 1466,
+              "xmax": 1393,
+              "ymax": 1484
+            },
+            {
+              "text": "to",
+              "xmin": 1407,
+              "ymin": 1462,
+              "xmax": 1432,
+              "ymax": 1484
+            },
+            {
+              "text": "input",
+              "xmin": 143,
+              "ymin": 1502,
+              "xmax": 218,
+              "ymax": 1528
+            },
+            {
+              "text": "document",
+              "xmin": 228,
+              "ymin": 1501,
+              "xmax": 386,
+              "ymax": 1526
+            },
+            {
+              "text": "files",
+              "xmin": 395,
+              "ymin": 1501,
+              "xmax": 453,
+              "ymax": 1525
+            },
+            {
+              "text": "We",
+              "xmin": 470,
+              "ymin": 1502,
+              "xmax": 521,
+              "ymax": 1526
+            },
+            {
+              "text": "create",
+              "xmin": 531,
+              "ymin": 1503,
+              "xmax": 626,
+              "ymax": 1525
+            },
+            {
+              "text": "embedding",
+              "xmin": 638,
+              "ymin": 1501,
+              "xmax": 819,
+              "ymax": 1532
+            },
+            {
+              "text": "chunks",
+              "xmin": 831,
+              "ymin": 1501,
+              "xmax": 943,
+              "ymax": 1526
+            },
+            {
+              "text": "of",
+              "xmin": 952,
+              "ymin": 1500,
+              "xmax": 984,
+              "ymax": 1526
+            },
+            {
+              "text": "documents",
+              "xmin": 991,
+              "ymin": 1501,
+              "xmax": 1164,
+              "ymax": 1526
+            },
+            {
+              "text": "and",
+              "xmin": 1176,
+              "ymin": 1501,
+              "xmax": 1228,
+              "ymax": 1526
+            },
+            {
+              "text": "store",
+              "xmin": 1242,
+              "ymin": 1503,
+              "xmax": 1317,
+              "ymax": 1525
+            },
+            {
+              "text": "in",
+              "xmin": 1330,
+              "ymin": 1502,
+              "xmax": 1352,
+              "ymax": 1525
+            },
+            {
+              "text": "the",
+              "xmin": 1364,
+              "ymin": 1502,
+              "xmax": 1411,
+              "ymax": 1526
+            },
+            {
+              "text": "Large",
+              "xmin": 1588,
+              "ymin": 1483,
+              "xmax": 1683,
+              "ymax": 1517
+            },
+            {
+              "text": "Language",
+              "xmin": 1697,
+              "ymin": 1484,
+              "xmax": 1866,
+              "ymax": 1515
+            },
+            {
+              "text": "Models",
+              "xmin": 1879,
+              "ymin": 1483,
+              "xmax": 2003,
+              "ymax": 1510
+            },
+            {
+              "text": "LI",
+              "xmin": 2021,
+              "ymin": 1482,
+              "xmax": 2096,
+              "ymax": 1507
+            },
+            {
+              "text": "Chroma",
+              "xmin": 142,
+              "ymin": 1542,
+              "xmax": 263,
+              "ymax": 1567
+            },
+            {
+              "text": "DB",
+              "xmin": 275,
+              "ymin": 1542,
+              "xmax": 318,
+              "ymax": 1567
+            },
+            {
+              "text": "While",
+              "xmin": 335,
+              "ymin": 1542,
+              "xmax": 421,
+              "ymax": 1566
+            },
+            {
+              "text": "searching",
+              "xmin": 434,
+              "ymin": 1543,
+              "xmax": 578,
+              "ymax": 1573
+            },
+            {
+              "text": "the",
+              "xmin": 592,
+              "ymin": 1543,
+              "xmax": 641,
+              "ymax": 1567
+            },
+            {
+              "text": "user's",
+              "xmin": 651,
+              "ymin": 1543,
+              "xmax": 737,
+              "ymax": 1567
+            },
+            {
+              "text": "query",
+              "xmin": 749,
+              "ymin": 1548,
+              "xmax": 836,
+              "ymax": 1570
+            },
+            {
+              "text": "gets",
+              "xmin": 846,
+              "ymin": 1544,
+              "xmax": 912,
+              "ymax": 1573
+            },
+            {
+              "text": "rephrased,",
+              "xmin": 924,
+              "ymin": 1542,
+              "xmax": 1083,
+              "ymax": 1571
+            },
+            {
+              "text": "and",
+              "xmin": 1094,
+              "ymin": 1542,
+              "xmax": 1150,
+              "ymax": 1567
+            },
+            {
+              "text": "we",
+              "xmin": 1161,
+              "ymin": 1549,
+              "xmax": 1202,
+              "ymax": 1566
+            },
+            {
+              "text": "generate",
+              "xmin": 1214,
+              "ymin": 1544,
+              "xmax": 1353,
+              "ymax": 1572
+            },
+            {
+              "text": "an",
+              "xmin": 1363,
+              "ymin": 1549,
+              "xmax": 1396,
+              "ymax": 1566
+            },
+            {
+              "text": "embedding",
+              "xmin": 141,
+              "ymin": 1583,
+              "xmax": 323,
+              "ymax": 1614
+            },
+            {
+              "text": "to",
+              "xmin": 335,
+              "ymin": 1585,
+              "xmax": 365,
+              "ymax": 1608
+            },
+            {
+              "text": "calculate",
+              "xmin": 374,
+              "ymin": 1584,
+              "xmax": 515,
+              "ymax": 1608
+            },
+            {
+              "text": "semantic",
+              "xmin": 525,
+              "ymin": 1583,
+              "xmax": 667,
+              "ymax": 1607
+            },
+            {
+              "text": "similarity",
+              "xmin": 680,
+              "ymin": 1584,
+              "xmax": 816,
+              "ymax": 1610
+            },
+            {
+              "text": "and",
+              "xmin": 830,
+              "ymin": 1583,
+              "xmax": 884,
+              "ymax": 1607
+            },
+            {
+              "text": "with",
+              "xmin": 897,
+              "ymin": 1584,
+              "xmax": 955,
+              "ymax": 1607
+            },
+            {
+              "text": "an",
+              "xmin": 969,
+              "ymin": 1589,
+              "xmax": 1002,
+              "ymax": 1607
+            },
+            {
+              "text": "appropriate",
+              "xmin": 1016,
+              "ymin": 1584,
+              "xmax": 1192,
+              "ymax": 1614
+            },
+            {
+              "text": "prompt",
+              "xmin": 1203,
+              "ymin": 1584,
+              "xmax": 1318,
+              "ymax": 1611
+            },
+            {
+              "text": "finally",
+              "xmin": 1328,
+              "ymin": 1582,
+              "xmax": 1416,
+              "ymax": 1612
+            },
+            {
+              "text": "LangChain",
+              "xmin": 1588,
+              "ymin": 1561,
+              "xmax": 1765,
+              "ymax": 1595
+            },
+            {
+              "text": "provide",
+              "xmin": 143,
+              "ymin": 1624,
+              "xmax": 254,
+              "ymax": 1651
+            },
+            {
+              "text": "ar",
+              "xmin": 265,
+              "ymin": 1630,
+              "xmax": 297,
+              "ymax": 1648
+            },
+            {
+              "text": "adequate",
+              "xmin": 312,
+              "ymin": 1624,
+              "xmax": 458,
+              "ymax": 1650
+            },
+            {
+              "text": "response",
+              "xmin": 469,
+              "ymin": 1630,
+              "xmax": 607,
+              "ymax": 1651
+            },
+            {
+              "text": "The",
+              "xmin": 625,
+              "ymin": 1624,
+              "xmax": 678,
+              "ymax": 1648
+            },
+            {
+              "text": "LangChain",
+              "xmin": 692,
+              "ymin": 1624,
+              "xmax": 858,
+              "ymax": 1652
+            },
+            {
+              "text": "framework",
+              "xmin": 870,
+              "ymin": 1623,
+              "xmax": 1032,
+              "ymax": 1648
+            },
+            {
+              "text": "is",
+              "xmin": 1046,
+              "ymin": 1625,
+              "xmax": 1065,
+              "ymax": 1646
+            },
+            {
+              "text": "used",
+              "xmin": 1077,
+              "ymin": 1624,
+              "xmax": 1150,
+              "ymax": 1648
+            },
+            {
+              "text": "for",
+              "xmin": 1162,
+              "ymin": 1623,
+              "xmax": 1201,
+              "ymax": 1646
+            },
+            {
+              "text": "Qdrant",
+              "xmin": 1586,
+              "ymin": 1641,
+              "xmax": 1702,
+              "ymax": 1666
+            },
+            {
+              "text": "implementatior",
+              "xmin": 143,
+              "ymin": 1666,
+              "xmax": 379,
+              "ymax": 1692
+            },
+            {
+              "text": "o",
+              "xmin": 102,
+              "ymin": 1718,
+              "xmax": 115,
+              "ymax": 1732
+            },
+            {
+              "text": "Responsible",
+              "xmin": 142,
+              "ymin": 1717,
+              "xmax": 334,
+              "ymax": 1746
+            },
+            {
+              "text": "for",
+              "xmin": 346,
+              "ymin": 1717,
+              "xmax": 385,
+              "ymax": 1743
+            },
+            {
+              "text": "developing",
+              "xmin": 395,
+              "ymin": 1717,
+              "xmax": 573,
+              "ymax": 1750
+            },
+            {
+              "text": "Google",
+              "xmin": 583,
+              "ymin": 1717,
+              "xmax": 699,
+              "ymax": 1748
+            },
+            {
+              "text": "Palm",
+              "xmin": 709,
+              "ymin": 1717,
+              "xmax": 784,
+              "ymax": 1743
+            },
+            {
+              "text": "pipeline",
+              "xmin": 798,
+              "ymin": 1719,
+              "xmax": 919,
+              "ymax": 1747
+            },
+            {
+              "text": "for",
+              "xmin": 929,
+              "ymin": 1717,
+              "xmax": 968,
+              "ymax": 1743
+            },
+            {
+              "text": "Generative",
+              "xmin": 978,
+              "ymin": 1718,
+              "xmax": 1151,
+              "ymax": 1743
+            },
+            {
+              "text": "Al",
+              "xmin": 1160,
+              "ymin": 1718,
+              "xmax": 1188,
+              "ymax": 1742
+            },
+            {
+              "text": "Docusense",
+              "xmin": 1201,
+              "ymin": 1718,
+              "xmax": 1373,
+              "ymax": 1743
+            },
+            {
+              "text": "SC",
+              "xmin": 1385,
+              "ymin": 1724,
+              "xmax": 1415,
+              "ymax": 1742
+            },
+            {
+              "text": "Maria",
+              "xmin": 1588,
+              "ymin": 1720,
+              "xmax": 1677,
+              "ymax": 1746
+            },
+            {
+              "text": "DB",
+              "xmin": 1692,
+              "ymin": 1720,
+              "xmax": 1737,
+              "ymax": 1746
+            },
+            {
+              "text": "that",
+              "xmin": 142,
+              "ymin": 1760,
+              "xmax": 200,
+              "ymax": 1784
+            },
+            {
+              "text": "customers",
+              "xmin": 209,
+              "ymin": 1761,
+              "xmax": 370,
+              "ymax": 1784
+            },
+            {
+              "text": "don't",
+              "xmin": 381,
+              "ymin": 1759,
+              "xmax": 458,
+              "ymax": 1784
+            },
+            {
+              "text": "have",
+              "xmin": 469,
+              "ymin": 1760,
+              "xmax": 540,
+              "ymax": 1783
+            },
+            {
+              "text": "to",
+              "xmin": 551,
+              "ymin": 1761,
+              "xmax": 577,
+              "ymax": 1783
+            },
+            {
+              "text": "migrate",
+              "xmin": 591,
+              "ymin": 1760,
+              "xmax": 707,
+              "ymax": 1789
+            },
+            {
+              "text": "their",
+              "xmin": 718,
+              "ymin": 1760,
+              "xmax": 784,
+              "ymax": 1783
+            },
+            {
+              "text": "data",
+              "xmin": 793,
+              "ymin": 1759,
+              "xmax": 858,
+              "ymax": 1784
+            },
+            {
+              "text": "to",
+              "xmin": 871,
+              "ymin": 1761,
+              "xmax": 896,
+              "ymax": 1784
+            },
+            {
+              "text": "Openai",
+              "xmin": 910,
+              "ymin": 1760,
+              "xmax": 1022,
+              "ymax": 1787
+            },
+            {
+              "text": "This",
+              "xmin": 1034,
+              "ymin": 1759,
+              "xmax": 1093,
+              "ymax": 1784
+            },
+            {
+              "text": "involvec",
+              "xmin": 1108,
+              "ymin": 1760,
+              "xmax": 1229,
+              "ymax": 1783
+            },
+            {
+              "text": "the",
+              "xmin": 1244,
+              "ymin": 1760,
+              "xmax": 1291,
+              "ymax": 1783
+            },
+            {
+              "text": "creatior",
+              "xmin": 1302,
+              "ymin": 1760,
+              "xmax": 1421,
+              "ymax": 1783
+            },
+            {
+              "text": "of",
+              "xmin": 142,
+              "ymin": 1799,
+              "xmax": 172,
+              "ymax": 1825
+            },
+            {
+              "text": "REST",
+              "xmin": 180,
+              "ymin": 1800,
+              "xmax": 260,
+              "ymax": 1825
+            },
+            {
+              "text": "APIs",
+              "xmin": 267,
+              "ymin": 1800,
+              "xmax": 334,
+              "ymax": 1825
+            },
+            {
+              "text": "in",
+              "xmin": 349,
+              "ymin": 1801,
+              "xmax": 371,
+              "ymax": 1824
+            },
+            {
+              "text": "Python",
+              "xmin": 383,
+              "ymin": 1800,
+              "xmax": 490,
+              "ymax": 1831
+            },
+            {
+              "text": "which",
+              "xmin": 503,
+              "ymin": 1801,
+              "xmax": 589,
+              "ymax": 1825
+            },
+            {
+              "text": "integrates",
+              "xmin": 604,
+              "ymin": 1801,
+              "xmax": 754,
+              "ymax": 1831
+            },
+            {
+              "text": "with",
+              "xmin": 765,
+              "ymin": 1801,
+              "xmax": 826,
+              "ymax": 1824
+            },
+            {
+              "text": "vertex",
+              "xmin": 839,
+              "ymin": 1802,
+              "xmax": 937,
+              "ymax": 1825
+            },
+            {
+              "text": "ai",
+              "xmin": 947,
+              "ymin": 1800,
+              "xmax": 971,
+              "ymax": 1824
+            },
+            {
+              "text": "sdk",
+              "xmin": 982,
+              "ymin": 1800,
+              "xmax": 1036,
+              "ymax": 1825
+            },
+            {
+              "text": "to",
+              "xmin": 1047,
+              "ymin": 1802,
+              "xmax": 1073,
+              "ymax": 1824
+            },
+            {
+              "text": "process",
+              "xmin": 1087,
+              "ymin": 1806,
+              "xmax": 1204,
+              "ymax": 1828
+            },
+            {
+              "text": "the",
+              "xmin": 1216,
+              "ymin": 1801,
+              "xmax": 1263,
+              "ymax": 1825
+            },
+            {
+              "text": "incoming",
+              "xmin": 1275,
+              "ymin": 1801,
+              "xmax": 1413,
+              "ymax": 1829
+            },
+            {
+              "text": "Redis",
+              "xmin": 1588,
+              "ymin": 1799,
+              "xmax": 1677,
+              "ymax": 1825
+            },
+            {
+              "text": "user",
+              "xmin": 142,
+              "ymin": 1847,
+              "xmax": 206,
+              "ymax": 1865
+            },
+            {
+              "text": "document",
+              "xmin": 216,
+              "ymin": 1841,
+              "xmax": 380,
+              "ymax": 1866
+            },
+            {
+              "text": "content",
+              "xmin": 388,
+              "ymin": 1843,
+              "xmax": 506,
+              "ymax": 1865
+            },
+            {
+              "text": "and",
+              "xmin": 516,
+              "ymin": 1841,
+              "xmax": 570,
+              "ymax": 1866
+            },
+            {
+              "text": "returr",
+              "xmin": 585,
+              "ymin": 1843,
+              "xmax": 670,
+              "ymax": 1865
+            },
+            {
+              "text": "the",
+              "xmin": 684,
+              "ymin": 1842,
+              "xmax": 730,
+              "ymax": 1865
+            },
+            {
+              "text": "appropriate",
+              "xmin": 743,
+              "ymin": 1842,
+              "xmax": 918,
+              "ymax": 1872
+            },
+            {
+              "text": "response",
+              "xmin": 931,
+              "ymin": 1847,
+              "xmax": 1069,
+              "ymax": 1869
+            },
+            {
+              "text": "This",
+              "xmin": 1086,
+              "ymin": 1841,
+              "xmax": 1144,
+              "ymax": 1865
+            },
+            {
+              "text": "was",
+              "xmin": 1156,
+              "ymin": 1847,
+              "xmax": 1215,
+              "ymax": 1865
+            },
+            {
+              "text": "implemented",
+              "xmin": 1227,
+              "ymin": 1841,
+              "xmax": 1429,
+              "ymax": 1869
+            },
+            {
+              "text": "using",
+              "xmin": 142,
+              "ymin": 1883,
+              "xmax": 220,
+              "ymax": 1911
+            },
+            {
+              "text": "the",
+              "xmin": 234,
+              "ymin": 1883,
+              "xmax": 279,
+              "ymax": 1907
+            },
+            {
+              "text": "LangChain",
+              "xmin": 292,
+              "ymin": 1882,
+              "xmax": 460,
+              "ymax": 1913
+            },
+            {
+              "text": "framework",
+              "xmin": 471,
+              "ymin": 1881,
+              "xmax": 641,
+              "ymax": 1907
+            },
+            {
+              "text": "and",
+              "xmin": 652,
+              "ymin": 1882,
+              "xmax": 707,
+              "ymax": 1907
+            },
+            {
+              "text": "custom",
+              "xmin": 718,
+              "ymin": 1883,
+              "xmax": 832,
+              "ymax": 1906
+            },
+            {
+              "text": "prompts",
+              "xmin": 847,
+              "ymin": 1884,
+              "xmax": 978,
+              "ymax": 1910
+            },
+            {
+              "text": "Argilla",
+              "xmin": 1587,
+              "ymin": 1878,
+              "xmax": 1692,
+              "ymax": 1912
+            },
+            {
+              "text": "o",
+              "xmin": 102,
+              "ymin": 1935,
+              "xmax": 115,
+              "ymax": 1948
+            },
+            {
+              "text": "Researched",
+              "xmin": 142,
+              "ymin": 1935,
+              "xmax": 326,
+              "ymax": 1959
+            },
+            {
+              "text": "and",
+              "xmin": 339,
+              "ymin": 1935,
+              "xmax": 394,
+              "ymax": 1959
+            },
+            {
+              "text": "migrated",
+              "xmin": 406,
+              "ymin": 1935,
+              "xmax": 548,
+              "ymax": 1965
+            },
+            {
+              "text": "Qdrant",
+              "xmin": 560,
+              "ymin": 1935,
+              "xmax": 670,
+              "ymax": 1959
+            },
+            {
+              "text": "a",
+              "xmin": 680,
+              "ymin": 1942,
+              "xmax": 693,
+              "ymax": 1957
+            },
+            {
+              "text": "vector",
+              "xmin": 706,
+              "ymin": 1936,
+              "xmax": 807,
+              "ymax": 1958
+            },
+            {
+              "text": "database",
+              "xmin": 815,
+              "ymin": 1935,
+              "xmax": 962,
+              "ymax": 1959
+            },
+            {
+              "text": "to",
+              "xmin": 973,
+              "ymin": 1937,
+              "xmax": 999,
+              "ymax": 1958
+            },
+            {
+              "text": "a",
+              "xmin": 1012,
+              "ymin": 1942,
+              "xmax": 1025,
+              "ymax": 1957
+            },
+            {
+              "text": "newer",
+              "xmin": 1040,
+              "ymin": 1941,
+              "xmax": 1133,
+              "ymax": 1959
+            },
+            {
+              "text": "version",
+              "xmin": 1142,
+              "ymin": 1936,
+              "xmax": 1248,
+              "ymax": 1958
+            },
+            {
+              "text": "in",
+              "xmin": 1263,
+              "ymin": 1936,
+              "xmax": 1285,
+              "ymax": 1959
+            },
+            {
+              "text": "which",
+              "xmin": 1296,
+              "ymin": 1936,
+              "xmax": 1383,
+              "ymax": 1958
+            },
+            {
+              "text": "we",
+              "xmin": 142,
+              "ymin": 1982,
+              "xmax": 182,
+              "ymax": 1999
+            },
+            {
+              "text": "store",
+              "xmin": 196,
+              "ymin": 1978,
+              "xmax": 270,
+              "ymax": 1999
+            },
+            {
+              "text": "data",
+              "xmin": 281,
+              "ymin": 1976,
+              "xmax": 347,
+              "ymax": 2001
+            },
+            {
+              "text": "on",
+              "xmin": 358,
+              "ymin": 1982,
+              "xmax": 393,
+              "ymax": 1999
+            },
+            {
+              "text": "variant",
+              "xmin": 406,
+              "ymin": 1977,
+              "xmax": 505,
+              "ymax": 1999
+            },
+            {
+              "text": "levels",
+              "xmin": 519,
+              "ymin": 1977,
+              "xmax": 604,
+              "ymax": 1999
+            },
+            {
+              "text": "of",
+              "xmin": 615,
+              "ymin": 1975,
+              "xmax": 646,
+              "ymax": 2001
+            },
+            {
+              "text": "customer-specific",
+              "xmin": 654,
+              "ymin": 1976,
+              "xmax": 928,
+              "ymax": 2004
+            },
+            {
+              "text": "products",
+              "xmin": 941,
+              "ymin": 1976,
+              "xmax": 1075,
+              "ymax": 2007
+            },
+            {
+              "text": "This",
+              "xmin": 1092,
+              "ymin": 1976,
+              "xmax": 1152,
+              "ymax": 1999
+            },
+            {
+              "text": "required",
+              "xmin": 1164,
+              "ymin": 1976,
+              "xmax": 1287,
+              "ymax": 2003
+            },
+            {
+              "text": "us",
+              "xmin": 1301,
+              "ymin": 1982,
+              "xmax": 1333,
+              "ymax": 1999
+            },
+            {
+              "text": "to",
+              "xmin": 1345,
+              "ymin": 1978,
+              "xmax": 1372,
+              "ymax": 1999
+            },
+            {
+              "text": "refactor",
+              "xmin": 143,
+              "ymin": 2016,
+              "xmax": 259,
+              "ymax": 2040
+            },
+            {
+              "text": "the",
+              "xmin": 270,
+              "ymin": 2018,
+              "xmax": 317,
+              "ymax": 2042
+            },
+            {
+              "text": "existing",
+              "xmin": 328,
+              "ymin": 2018,
+              "xmax": 440,
+              "ymax": 2046
+            },
+            {
+              "text": "Qdrant",
+              "xmin": 453,
+              "ymin": 2017,
+              "xmax": 564,
+              "ymax": 2042
+            },
+            {
+              "text": "pipeline",
+              "xmin": 574,
+              "ymin": 2018,
+              "xmax": 692,
+              "ymax": 2046
+            },
+            {
+              "text": "which",
+              "xmin": 704,
+              "ymin": 2018,
+              "xmax": 791,
+              "ymax": 2040
+            },
+            {
+              "text": "was",
+              "xmin": 803,
+              "ymin": 2023,
+              "xmax": 859,
+              "ymax": 2040
+            },
+            {
+              "text": "earlier",
+              "xmin": 873,
+              "ymin": 2018,
+              "xmax": 966,
+              "ymax": 2040
+            },
+            {
+              "text": "causi",
+              "xmin": 977,
+              "ymin": 2018,
+              "xmax": 1052,
+              "ymax": 2042
+            },
+            {
+              "text": "sing",
+              "xmin": 1045,
+              "ymin": 2018,
+              "xmax": 1093,
+              "ymax": 2050
+            },
+            {
+              "text": "processing",
+              "xmin": 1109,
+              "ymin": 2017,
+              "xmax": 1280,
+              "ymax": 2047
+            },
+            {
+              "text": "bottlenecks",
+              "xmin": 142,
+              "ymin": 2057,
+              "xmax": 330,
+              "ymax": 2083
+            },
+            {
+              "text": "This",
+              "xmin": 347,
+              "ymin": 2058,
+              "xmax": 407,
+              "ymax": 2081
+            },
+            {
+              "text": "improved",
+              "xmin": 420,
+              "ymin": 2058,
+              "xmax": 558,
+              "ymax": 2085
+            },
+            {
+              "text": "the",
+              "xmin": 572,
+              "ymin": 2059,
+              "xmax": 619,
+              "ymax": 2083
+            },
+            {
+              "text": "overall",
+              "xmin": 630,
+              "ymin": 2059,
+              "xmax": 730,
+              "ymax": 2081
+            },
+            {
+              "text": "NER",
+              "xmin": 744,
+              "ymin": 2058,
+              "xmax": 807,
+              "ymax": 2081
+            },
+            {
+              "text": "search",
+              "xmin": 818,
+              "ymin": 2058,
+              "xmax": 922,
+              "ymax": 2081
+            },
+            {
+              "text": "and",
+              "xmin": 933,
+              "ymin": 2058,
+              "xmax": 988,
+              "ymax": 2081
+            },
+            {
+              "text": "filter",
+              "xmin": 1000,
+              "ymin": 2057,
+              "xmax": 1073,
+              "ymax": 2081
+            },
+            {
+              "text": "capabilities",
+              "xmin": 1083,
+              "ymin": 2050,
+              "xmax": 1254,
+              "ymax": 2085
+            },
+            {
+              "text": "of",
+              "xmin": 1265,
+              "ymin": 2057,
+              "xmax": 1295,
+              "ymax": 2081
+            },
+            {
+              "text": "PUBLICATIONS",
+              "xmin": 1589,
+              "ymin": 2031,
+              "xmax": 2005,
+              "ymax": 2073
+            },
+            {
+              "text": "customer",
+              "xmin": 142,
+              "ymin": 2101,
+              "xmax": 286,
+              "ymax": 2122
+            },
+            {
+              "text": "data",
+              "xmin": 296,
+              "ymin": 2099,
+              "xmax": 362,
+              "ymax": 2124
+            },
+            {
+              "text": "and",
+              "xmin": 373,
+              "ymin": 2099,
+              "xmax": 427,
+              "ymax": 2124
+            },
+            {
+              "text": "we",
+              "xmin": 439,
+              "ymin": 2105,
+              "xmax": 481,
+              "ymax": 2122
+            },
+            {
+              "text": "also",
+              "xmin": 493,
+              "ymin": 2100,
+              "xmax": 552,
+              "ymax": 2122
+            },
+            {
+              "text": "improved",
+              "xmin": 566,
+              "ymin": 2099,
+              "xmax": 706,
+              "ymax": 2126
+            },
+            {
+              "text": "our",
+              "xmin": 719,
+              "ymin": 2105,
+              "xmax": 766,
+              "ymax": 2122
+            },
+            {
+              "text": "pipeline",
+              "xmin": 779,
+              "ymin": 2100,
+              "xmax": 898,
+              "ymax": 2129
+            },
+            {
+              "text": "latency",
+              "xmin": 909,
+              "ymin": 2098,
+              "xmax": 1027,
+              "ymax": 2130
+            },
+            {
+              "text": "by",
+              "xmin": 1038,
+              "ymin": 2099,
+              "xmax": 1071,
+              "ymax": 2129
+            },
+            {
+              "text": "100%",
+              "xmin": 1083,
+              "ymin": 2099,
+              "xmax": 1161,
+              "ymax": 2122
+            },
+            {
+              "text": "Sharma",
+              "xmin": 1587,
+              "ymin": 2118,
+              "xmax": 1716,
+              "ymax": 2145
+            },
+            {
+              "text": "Akshita",
+              "xmin": 1736,
+              "ymin": 2118,
+              "xmax": 1858,
+              "ymax": 2145
+            },
+            {
+              "text": "et",
+              "xmin": 1878,
+              "ymin": 2118,
+              "xmax": 1911,
+              "ymax": 2145
+            },
+            {
+              "text": "al.",
+              "xmin": 1922,
+              "ymin": 2118,
+              "xmax": 1955,
+              "ymax": 2145
+            },
+            {
+              "text": "\"Comparative",
+              "xmin": 1971,
+              "ymin": 2118,
+              "xmax": 2195,
+              "ymax": 2149
+            },
+            {
+              "text": "evaluation",
+              "xmin": 1586,
+              "ymin": 2159,
+              "xmax": 1759,
+              "ymax": 2186
+            },
+            {
+              "text": "of",
+              "xmin": 1774,
+              "ymin": 2158,
+              "xmax": 1808,
+              "ymax": 2185
+            },
+            {
+              "text": "Research",
+              "xmin": 107,
+              "ymin": 2190,
+              "xmax": 301,
+              "ymax": 2223
+            },
+            {
+              "text": "deep",
+              "xmin": 1817,
+              "ymin": 2158,
+              "xmax": 1902,
+              "ymax": 2192
+            },
+            {
+              "text": "dense",
+              "xmin": 1915,
+              "ymin": 2158,
+              "xmax": 2020,
+              "ymax": 2186
+            },
+            {
+              "text": "sequential",
+              "xmin": 2032,
+              "ymin": 2150,
+              "xmax": 2209,
+              "ymax": 2191
+            },
+            {
+              "text": "and",
+              "xmin": 2207,
+              "ymin": 2158,
+              "xmax": 2280,
+              "ymax": 2186
+            },
+            {
+              "text": "Intern",
+              "xmin": 322,
+              "ymin": 2191,
+              "xmax": 444,
+              "ymax": 2223
+            },
+            {
+              "text": "deep",
+              "xmin": 1586,
+              "ymin": 2199,
+              "xmax": 1675,
+              "ymax": 2231
+            },
+            {
+              "text": "dense",
+              "xmin": 1685,
+              "ymin": 2199,
+              "xmax": 1789,
+              "ymax": 2227
+            },
+            {
+              "text": "transfer",
+              "xmin": 1802,
+              "ymin": 2193,
+              "xmax": 1932,
+              "ymax": 2227
+            },
+            {
+              "text": "learning",
+              "xmin": 1944,
+              "ymin": 2200,
+              "xmax": 2078,
+              "ymax": 2234
+            },
+            {
+              "text": "models",
+              "xmin": 2089,
+              "ymin": 2193,
+              "xmax": 2217,
+              "ymax": 2227
+            },
+            {
+              "text": "for",
+              "xmin": 2230,
+              "ymin": 2199,
+              "xmax": 2274,
+              "ymax": 2225
+            },
+            {
+              "text": "Shri",
+              "xmin": 106,
+              "ymin": 2243,
+              "xmax": 180,
+              "ymax": 2275
+            },
+            {
+              "text": "Mata",
+              "xmin": 199,
+              "ymin": 2244,
+              "xmax": 296,
+              "ymax": 2277
+            },
+            {
+              "text": "Vaishno",
+              "xmin": 312,
+              "ymin": 2243,
+              "xmax": 474,
+              "ymax": 2278
+            },
+            {
+              "text": "Devi",
+              "xmin": 492,
+              "ymin": 2242,
+              "xmax": 578,
+              "ymax": 2277
+            },
+            {
+              "text": "University",
+              "xmin": 597,
+              "ymin": 2243,
+              "xmax": 801,
+              "ymax": 2283
+            },
+            {
+              "text": "suicidal",
+              "xmin": 1587,
+              "ymin": 2234,
+              "xmax": 1715,
+              "ymax": 2268
+            },
+            {
+              "text": "emotion",
+              "xmin": 1725,
+              "ymin": 2240,
+              "xmax": 1863,
+              "ymax": 2268
+            },
+            {
+              "text": "prediction",
+              "xmin": 1879,
+              "ymin": 2240,
+              "xmax": 2050,
+              "ymax": 2272
+            },
+            {
+              "text": "Concurrency",
+              "xmin": 2067,
+              "ymin": 2233,
+              "xmax": 2291,
+              "ymax": 2275
+            },
+            {
+              "text": "and",
+              "xmin": 2302,
+              "ymin": 2241,
+              "xmax": 2362,
+              "ymax": 2268
+            },
+            {
+              "text": "06/2022",
+              "xmin": 104,
+              "ymin": 2304,
+              "xmax": 215,
+              "ymax": 2325
+            },
+            {
+              "text": "11/2022",
+              "xmin": 244,
+              "ymin": 2304,
+              "xmax": 344,
+              "ymax": 2325
+            },
+            {
+              "text": "Jammu",
+              "xmin": 1328,
+              "ymin": 2305,
+              "xmax": 1428,
+              "ymax": 2325
+            },
+            {
+              "text": "Computation",
+              "xmin": 1586,
+              "ymin": 2281,
+              "xmax": 1806,
+              "ymax": 2313
+            },
+            {
+              "text": "Practice",
+              "xmin": 1828,
+              "ymin": 2276,
+              "xmax": 1962,
+              "ymax": 2307
+            },
+            {
+              "text": "and",
+              "xmin": 1976,
+              "ymin": 2281,
+              "xmax": 2036,
+              "ymax": 2309
+            },
+            {
+              "text": "Experience",
+              "xmin": 2052,
+              "ymin": 2281,
+              "xmax": 2239,
+              "ymax": 2313
+            },
+            {
+              "text": "(2023)",
+              "xmin": 2253,
+              "ymin": 2281,
+              "xmax": 2351,
+              "ymax": 2310
+            },
+            {
+              "text": "Achievements.",
+              "xmin": 103,
+              "ymin": 2353,
+              "xmax": 289,
+              "ymax": 2375
+            },
+            {
+              "text": "/",
+              "xmin": 289,
+              "ymin": 2357,
+              "xmax": 301,
+              "ymax": 2371
+            },
+            {
+              "text": "Tasks",
+              "xmin": 304,
+              "ymin": 2352,
+              "xmax": 379,
+              "ymax": 2375
+            },
+            {
+              "text": "e7745",
+              "xmin": 1586,
+              "ymin": 2328,
+              "xmax": 1683,
+              "ymax": 2355
+            },
+            {
+              "text": "o",
+              "xmin": 102,
+              "ymin": 2395,
+              "xmax": 115,
+              "ymax": 2409
+            },
+            {
+              "text": "Gathered",
+              "xmin": 142,
+              "ymin": 2395,
+              "xmax": 279,
+              "ymax": 2420
+            },
+            {
+              "text": "extensive",
+              "xmin": 294,
+              "ymin": 2396,
+              "xmax": 434,
+              "ymax": 2418
+            },
+            {
+              "text": "text",
+              "xmin": 447,
+              "ymin": 2397,
+              "xmax": 503,
+              "ymax": 2418
+            },
+            {
+              "text": "data",
+              "xmin": 513,
+              "ymin": 2395,
+              "xmax": 578,
+              "ymax": 2420
+            },
+            {
+              "text": "from",
+              "xmin": 590,
+              "ymin": 2394,
+              "xmax": 656,
+              "ymax": 2418
+            },
+            {
+              "text": "Reddit.",
+              "xmin": 672,
+              "ymin": 2395,
+              "xmax": 773,
+              "ymax": 2420
+            },
+            {
+              "text": "employing",
+              "xmin": 787,
+              "ymin": 2396,
+              "xmax": 948,
+              "ymax": 2428
+            },
+            {
+              "text": "NLP",
+              "xmin": 961,
+              "ymin": 2395,
+              "xmax": 1022,
+              "ymax": 2420
+            },
+            {
+              "text": "libraries",
+              "xmin": 1034,
+              "ymin": 2395,
+              "xmax": 1150,
+              "ymax": 2418
+            },
+            {
+              "text": "for",
+              "xmin": 1163,
+              "ymin": 2394,
+              "xmax": 1202,
+              "ymax": 2420
+            },
+            {
+              "text": "data",
+              "xmin": 1211,
+              "ymin": 2395,
+              "xmax": 1277,
+              "ymax": 2420
+            },
+            {
+              "text": "Kaushik",
+              "xmin": 1588,
+              "ymin": 2399,
+              "xmax": 1718,
+              "ymax": 2427
+            },
+            {
+              "text": "Baijnath",
+              "xmin": 1740,
+              "ymin": 2399,
+              "xmax": 1873,
+              "ymax": 2428
+            },
+            {
+              "text": "et",
+              "xmin": 1893,
+              "ymin": 2401,
+              "xmax": 1926,
+              "ymax": 2427
+            },
+            {
+              "text": "al.",
+              "xmin": 1938,
+              "ymin": 2400,
+              "xmax": 1970,
+              "ymax": 2425
+            },
+            {
+              "text": "\"Machine",
+              "xmin": 1985,
+              "ymin": 2399,
+              "xmax": 2138,
+              "ymax": 2427
+            },
+            {
+              "text": "Learning",
+              "xmin": 2151,
+              "ymin": 2399,
+              "xmax": 2295,
+              "ymax": 2434
+            },
+            {
+              "text": "preprocessino",
+              "xmin": 143,
+              "ymin": 2437,
+              "xmax": 355,
+              "ymax": 2465
+            },
+            {
+              "text": "Conducted",
+              "xmin": 377,
+              "ymin": 2436,
+              "xmax": 545,
+              "ymax": 2461
+            },
+            {
+              "text": "text",
+              "xmin": 558,
+              "ymin": 2438,
+              "xmax": 614,
+              "ymax": 2461
+            },
+            {
+              "text": "classification",
+              "xmin": 623,
+              "ymin": 2436,
+              "xmax": 817,
+              "ymax": 2461
+            },
+            {
+              "text": "analysis",
+              "xmin": 829,
+              "ymin": 2437,
+              "xmax": 947,
+              "ymax": 2462
+            },
+            {
+              "text": "using",
+              "xmin": 960,
+              "ymin": 2437,
+              "xmax": 1039,
+              "ymax": 2466
+            },
+            {
+              "text": "diverse",
+              "xmin": 1051,
+              "ymin": 2436,
+              "xmax": 1161,
+              "ymax": 2460
+            },
+            {
+              "text": "pre",
+              "xmin": 1173,
+              "ymin": 2443,
+              "xmax": 1219,
+              "ymax": 2464
+            },
+            {
+              "text": "-trained",
+              "xmin": 1219,
+              "ymin": 2436,
+              "xmax": 1339,
+              "ymax": 2460
+            },
+            {
+              "text": "and",
+              "xmin": 1352,
+              "ymin": 2436,
+              "xmax": 1408,
+              "ymax": 2460
+            },
+            {
+              "text": "Model",
+              "xmin": 1588,
+              "ymin": 2440,
+              "xmax": 1694,
+              "ymax": 2466
+            },
+            {
+              "text": "for",
+              "xmin": 1705,
+              "ymin": 2440,
+              "xmax": 1750,
+              "ymax": 2466
+            },
+            {
+              "text": "Sentiment",
+              "xmin": 1760,
+              "ymin": 2432,
+              "xmax": 1935,
+              "ymax": 2468
+            },
+            {
+              "text": "Analysis",
+              "xmin": 1945,
+              "ymin": 2440,
+              "xmax": 2083,
+              "ymax": 2472
+            },
+            {
+              "text": "on",
+              "xmin": 2096,
+              "ymin": 2448,
+              "xmax": 2135,
+              "ymax": 2468
+            },
+            {
+              "text": "Mental",
+              "xmin": 2151,
+              "ymin": 2441,
+              "xmax": 2266,
+              "ymax": 2468
+            },
+            {
+              "text": "deep",
+              "xmin": 142,
+              "ymin": 2477,
+              "xmax": 220,
+              "ymax": 2505
+            },
+            {
+              "text": "learning",
+              "xmin": 232,
+              "ymin": 2478,
+              "xmax": 351,
+              "ymax": 2508
+            },
+            {
+              "text": "models",
+              "xmin": 365,
+              "ymin": 2477,
+              "xmax": 477,
+              "ymax": 2502
+            },
+            {
+              "text": "including",
+              "xmin": 498,
+              "ymin": 2477,
+              "xmax": 635,
+              "ymax": 2508
+            },
+            {
+              "text": "BERT.",
+              "xmin": 648,
+              "ymin": 2477,
+              "xmax": 731,
+              "ymax": 2502
+            },
+            {
+              "text": "Robert",
+              "xmin": 745,
+              "ymin": 2477,
+              "xmax": 846,
+              "ymax": 2502
+            },
+            {
+              "text": "ALBERT.",
+              "xmin": 863,
+              "ymin": 2477,
+              "xmax": 989,
+              "ymax": 2502
+            },
+            {
+              "text": "RNN.",
+              "xmin": 1004,
+              "ymin": 2477,
+              "xmax": 1079,
+              "ymax": 2501
+            },
+            {
+              "text": "CNN.",
+              "xmin": 1091,
+              "ymin": 2477,
+              "xmax": 1169,
+              "ymax": 2501
+            },
+            {
+              "text": "and",
+              "xmin": 1181,
+              "ymin": 2477,
+              "xmax": 1236,
+              "ymax": 2502
+            },
+            {
+              "text": "BILSTM",
+              "xmin": 1250,
+              "ymin": 2477,
+              "xmax": 1363,
+              "ymax": 2501
+            },
+            {
+              "text": "Health",
+              "xmin": 1588,
+              "ymin": 2481,
+              "xmax": 1696,
+              "ymax": 2508
+            },
+            {
+              "text": "Issues.",
+              "xmin": 1712,
+              "ymin": 2483,
+              "xmax": 1825,
+              "ymax": 2509
+            },
+            {
+              "text": "2023",
+              "xmin": 1842,
+              "ymin": 2487,
+              "xmax": 1920,
+              "ymax": 2514
+            },
+            {
+              "text": "15th",
+              "xmin": 1933,
+              "ymin": 2481,
+              "xmax": 1998,
+              "ymax": 2514
+            },
+            {
+              "text": "International",
+              "xmin": 2013,
+              "ymin": 2481,
+              "xmax": 2224,
+              "ymax": 2509
+            },
+            {
+              "text": "o",
+              "xmin": 102,
+              "ymin": 2530,
+              "xmax": 115,
+              "ymax": 2543
+            },
+            {
+              "text": "Explored",
+              "xmin": 143,
+              "ymin": 2530,
+              "xmax": 275,
+              "ymax": 2561
+            },
+            {
+              "text": "various",
+              "xmin": 287,
+              "ymin": 2531,
+              "xmax": 393,
+              "ymax": 2553
+            },
+            {
+              "text": "classical",
+              "xmin": 405,
+              "ymin": 2531,
+              "xmax": 535,
+              "ymax": 2555
+            },
+            {
+              "text": "machine",
+              "xmin": 545,
+              "ymin": 2531,
+              "xmax": 674,
+              "ymax": 2555
+            },
+            {
+              "text": "learning",
+              "xmin": 687,
+              "ymin": 2531,
+              "xmax": 806,
+              "ymax": 2562
+            },
+            {
+              "text": "algorithms",
+              "xmin": 818,
+              "ymin": 2531,
+              "xmax": 981,
+              "ymax": 2561
+            },
+            {
+              "text": "and",
+              "xmin": 992,
+              "ymin": 2530,
+              "xmax": 1046,
+              "ymax": 2554
+            },
+            {
+              "text": "Stacking",
+              "xmin": 1059,
+              "ymin": 2530,
+              "xmax": 1187,
+              "ymax": 2563
+            },
+            {
+              "text": "to",
+              "xmin": 1200,
+              "ymin": 2532,
+              "xmax": 1226,
+              "ymax": 2553
+            },
+            {
+              "text": "enhance",
+              "xmin": 1240,
+              "ymin": 2531,
+              "xmax": 1370,
+              "ymax": 2555
+            },
+            {
+              "text": "the",
+              "xmin": 1382,
+              "ymin": 2531,
+              "xmax": 1428,
+              "ymax": 2554
+            },
+            {
+              "text": "Conference",
+              "xmin": 1586,
+              "ymin": 2522,
+              "xmax": 1784,
+              "ymax": 2550
+            },
+            {
+              "text": "on",
+              "xmin": 1797,
+              "ymin": 2529,
+              "xmax": 1836,
+              "ymax": 2550
+            },
+            {
+              "text": "Computer",
+              "xmin": 1849,
+              "ymin": 2523,
+              "xmax": 2022,
+              "ymax": 2554
+            },
+            {
+              "text": "and",
+              "xmin": 2031,
+              "ymin": 2523,
+              "xmax": 2091,
+              "ymax": 2549
+            },
+            {
+              "text": "Automation",
+              "xmin": 2106,
+              "ymin": 2522,
+              "xmax": 2302,
+              "ymax": 2550
+            },
+            {
+              "text": "performance",
+              "xmin": 143,
+              "ymin": 2570,
+              "xmax": 339,
+              "ymax": 2600
+            },
+            {
+              "text": "of",
+              "xmin": 350,
+              "ymin": 2570,
+              "xmax": 379,
+              "ymax": 2594
+            },
+            {
+              "text": "the",
+              "xmin": 380,
+              "ymin": 2571,
+              "xmax": 434,
+              "ymax": 2594
+            },
+            {
+              "text": "top-",
+              "xmin": 447,
+              "ymin": 2573,
+              "xmax": 508,
+              "ymax": 2602
+            },
+            {
+              "text": "performing",
+              "xmin": 507,
+              "ymin": 2571,
+              "xmax": 680,
+              "ymax": 2601
+            },
+            {
+              "text": "classifier.",
+              "xmin": 691,
+              "ymin": 2563,
+              "xmax": 825,
+              "ymax": 2595
+            },
+            {
+              "text": "for",
+              "xmin": 839,
+              "ymin": 2570,
+              "xmax": 878,
+              "ymax": 2594
+            },
+            {
+              "text": "classifying",
+              "xmin": 888,
+              "ymin": 2570,
+              "xmax": 1046,
+              "ymax": 2603
+            },
+            {
+              "text": "the",
+              "xmin": 1059,
+              "ymin": 2572,
+              "xmax": 1106,
+              "ymax": 2595
+            },
+            {
+              "text": "sentiment",
+              "xmin": 1117,
+              "ymin": 2572,
+              "xmax": 1269,
+              "ymax": 2595
+            },
+            {
+              "text": "on",
+              "xmin": 1279,
+              "ymin": 2577,
+              "xmax": 1314,
+              "ymax": 2594
+            },
+            {
+              "text": "humar",
+              "xmin": 1329,
+              "ymin": 2572,
+              "xmax": 1429,
+              "ymax": 2596
+            },
+            {
+              "text": "Engineering",
+              "xmin": 1588,
+              "ymin": 2563,
+              "xmax": 1789,
+              "ymax": 2598
+            },
+            {
+              "text": "(ICCAE).",
+              "xmin": 1803,
+              "ymin": 2555,
+              "xmax": 1935,
+              "ymax": 2590
+            },
+            {
+              "text": "IEEE",
+              "xmin": 1948,
+              "ymin": 2564,
+              "xmax": 2020,
+              "ymax": 2590
+            },
+            {
+              "text": "2023",
+              "xmin": 2042,
+              "ymin": 2568,
+              "xmax": 2121,
+              "ymax": 2596
+            },
+            {
+              "text": "blogs",
+              "xmin": 143,
+              "ymin": 2612,
+              "xmax": 225,
+              "ymax": 2643
+            },
+            {
+              "text": "Sharma",
+              "xmin": 1587,
+              "ymin": 2641,
+              "xmax": 1716,
+              "ymax": 2668
+            },
+            {
+              "text": "Akshita",
+              "xmin": 1736,
+              "ymin": 2640,
+              "xmax": 1857,
+              "ymax": 2668
+            },
+            {
+              "text": "and",
+              "xmin": 1878,
+              "ymin": 2641,
+              "xmax": 1940,
+              "ymax": 2668
+            },
+            {
+              "text": "Baiinath",
+              "xmin": 1955,
+              "ymin": 2640,
+              "xmax": 2085,
+              "ymax": 2669
+            },
+            {
+              "text": "Kaushik",
+              "xmin": 2101,
+              "ymin": 2640,
+              "xmax": 2231,
+              "ymax": 2668
+            },
+            {
+              "text": "Systematic",
+              "xmin": 1593,
+              "ymin": 2681,
+              "xmax": 1784,
+              "ymax": 2713
+            },
+            {
+              "text": "Review",
+              "xmin": 1798,
+              "ymin": 2681,
+              "xmax": 1916,
+              "ymax": 2709
+            },
+            {
+              "text": "of",
+              "xmin": 1928,
+              "ymin": 2681,
+              "xmax": 1962,
+              "ymax": 2708
+            },
+            {
+              "text": "Learning",
+              "xmin": 1972,
+              "ymin": 2681,
+              "xmax": 2116,
+              "ymax": 2716
+            },
+            {
+              "text": "Models",
+              "xmin": 2132,
+              "ymin": 2681,
+              "xmax": 2255,
+              "ymax": 2709
+            },
+            {
+              "text": "for",
+              "xmin": 2268,
+              "ymin": 2681,
+              "xmax": 2312,
+              "ymax": 2708
+            },
+            {
+              "text": "Suicidal",
+              "xmin": 1587,
+              "ymin": 2717,
+              "xmax": 1720,
+              "ymax": 2749
+            },
+            {
+              "text": "Ideation",
+              "xmin": 1731,
+              "ymin": 2722,
+              "xmax": 1863,
+              "ymax": 2750
+            },
+            {
+              "text": "on",
+              "xmin": 1879,
+              "ymin": 2729,
+              "xmax": 1918,
+              "ymax": 2750
+            },
+            {
+              "text": "Social",
+              "xmin": 1932,
+              "ymin": 2722,
+              "xmax": 2033,
+              "ymax": 2750
+            },
+            {
+              "text": "Media",
+              "xmin": 2045,
+              "ymin": 2717,
+              "xmax": 2146,
+              "ymax": 2750
+            },
+            {
+              "text": "EDUCATION",
+              "xmin": 107,
+              "ymin": 2759,
+              "xmax": 434,
+              "ymax": 2799
+            },
+            {
+              "text": "Proceedings",
+              "xmin": 1588,
+              "ymin": 2763,
+              "xmax": 1798,
+              "ymax": 2795
+            },
+            {
+              "text": "of",
+              "xmin": 1812,
+              "ymin": 2763,
+              "xmax": 1844,
+              "ymax": 2790
+            },
+            {
+              "text": "International",
+              "xmin": 1856,
+              "ymin": 2763,
+              "xmax": 2066,
+              "ymax": 2791
+            },
+            {
+              "text": "Conference",
+              "xmin": 2078,
+              "ymin": 2764,
+              "xmax": 2275,
+              "ymax": 2791
+            },
+            {
+              "text": "on",
+              "xmin": 2287,
+              "ymin": 2770,
+              "xmax": 2325,
+              "ymax": 2788
+            },
+            {
+              "text": "Recent",
+              "xmin": 1588,
+              "ymin": 2805,
+              "xmax": 1706,
+              "ymax": 2831
+            },
+            {
+              "text": "Innovations",
+              "xmin": 1720,
+              "ymin": 2799,
+              "xmax": 1910,
+              "ymax": 2832
+            },
+            {
+              "text": "in",
+              "xmin": 1925,
+              "ymin": 2805,
+              "xmax": 1947,
+              "ymax": 2830
+            },
+            {
+              "text": "Computing",
+              "xmin": 1962,
+              "ymin": 2804,
+              "xmax": 2149,
+              "ymax": 2839
+            },
+            {
+              "text": "ICRIC",
+              "xmin": 2172,
+              "ymin": 2805,
+              "xmax": 2258,
+              "ymax": 2831
+            },
+            {
+              "text": "2022",
+              "xmin": 2274,
+              "ymin": 2809,
+              "xmax": 2350,
+              "ymax": 2830
+            },
+            {
+              "text": "M",
+              "xmin": 107,
+              "ymin": 2852,
+              "xmax": 145,
+              "ymax": 2883
+            },
+            {
+              "text": "Tech",
+              "xmin": 164,
+              "ymin": 2851,
+              "xmax": 263,
+              "ymax": 2883
+            },
+            {
+              "text": "Volume",
+              "xmin": 1587,
+              "ymin": 2844,
+              "xmax": 1718,
+              "ymax": 2872
+            },
+            {
+              "text": "1",
+              "xmin": 1730,
+              "ymin": 2850,
+              "xmax": 1739,
+              "ymax": 2869
+            },
+            {
+              "text": "Singapore",
+              "xmin": 1763,
+              "ymin": 2844,
+              "xmax": 1932,
+              "ymax": 2878
+            },
+            {
+              "text": "Springer",
+              "xmin": 1953,
+              "ymin": 2837,
+              "xmax": 2097,
+              "ymax": 2879
+            },
+            {
+              "text": "Nature",
+              "xmin": 2109,
+              "ymin": 2837,
+              "xmax": 2222,
+              "ymax": 2872
+            },
+            {
+              "text": "Shri",
+              "xmin": 106,
+              "ymin": 2903,
+              "xmax": 180,
+              "ymax": 2938
+            },
+            {
+              "text": "Mata",
+              "xmin": 199,
+              "ymin": 2905,
+              "xmax": 298,
+              "ymax": 2938
+            },
+            {
+              "text": "Vaishno",
+              "xmin": 312,
+              "ymin": 2903,
+              "xmax": 474,
+              "ymax": 2938
+            },
+            {
+              "text": "Devi",
+              "xmin": 492,
+              "ymin": 2903,
+              "xmax": 578,
+              "ymax": 2938
+            },
+            {
+              "text": "University",
+              "xmin": 597,
+              "ymin": 2903,
+              "xmax": 801,
+              "ymax": 2944
+            },
+            {
+              "text": "Singapore",
+              "xmin": 1587,
+              "ymin": 2886,
+              "xmax": 1757,
+              "ymax": 2921
+            },
+            {
+              "text": "2023",
+              "xmin": 1780,
+              "ymin": 2890,
+              "xmax": 1858,
+              "ymax": 2915
+            },
+            {
+              "text": "06/2020",
+              "xmin": 104,
+              "ymin": 2965,
+              "xmax": 215,
+              "ymax": 2986
+            },
+            {
+              "text": "05/2022",
+              "xmin": 247,
+              "ymin": 2965,
+              "xmax": 355,
+              "ymax": 2989
+            },
+            {
+              "text": "Jammu",
+              "xmin": 1328,
+              "ymin": 2966,
+              "xmax": 1428,
+              "ymax": 2986
+            },
+            {
+              "text": "Courses",
+              "xmin": 104,
+              "ymin": 3014,
+              "xmax": 210,
+              "ymax": 3035
+            },
+            {
+              "text": "o",
+              "xmin": 102,
+              "ymin": 3056,
+              "xmax": 115,
+              "ymax": 3069
+            },
+            {
+              "text": "Computer",
+              "xmin": 142,
+              "ymin": 3056,
+              "xmax": 295,
+              "ymax": 3087
+            },
+            {
+              "text": "Science",
+              "xmin": 306,
+              "ymin": 3056,
+              "xmax": 425,
+              "ymax": 3080
+            },
+            {
+              "text": "8.65",
+              "xmin": 459,
+              "ymin": 3056,
+              "xmax": 521,
+              "ymax": 3086
+            },
+            {
+              "text": "CGPA",
+              "xmin": 532,
+              "ymin": 3056,
+              "xmax": 614,
+              "ymax": 3080
+            },
+            {
+              "text": "ACHIEVMENTS",
+              "xmin": 1586,
+              "ymin": 3037,
+              "xmax": 1996,
+              "ymax": 3079
+            },
+            {
+              "text": "B.",
+              "xmin": 107,
+              "ymin": 3148,
+              "xmax": 143,
+              "ymax": 3179
+            },
+            {
+              "text": "Tech",
+              "xmin": 138,
+              "ymin": 3147,
+              "xmax": 255,
+              "ymax": 3179
+            },
+            {
+              "text": "Secured",
+              "xmin": 1587,
+              "ymin": 3123,
+              "xmax": 1726,
+              "ymax": 3151
+            },
+            {
+              "text": "first",
+              "xmin": 1741,
+              "ymin": 3124,
+              "xmax": 1800,
+              "ymax": 3149
+            },
+            {
+              "text": "position",
+              "xmin": 1813,
+              "ymin": 3123,
+              "xmax": 1943,
+              "ymax": 3154
+            },
+            {
+              "text": "in",
+              "xmin": 1958,
+              "ymin": 3123,
+              "xmax": 1980,
+              "ymax": 3150
+            },
+            {
+              "text": "M.Tech",
+              "xmin": 1997,
+              "ymin": 3123,
+              "xmax": 2110,
+              "ymax": 3151
+            },
+            {
+              "text": "CSE",
+              "xmin": 2124,
+              "ymin": 3124,
+              "xmax": 2192,
+              "ymax": 3151
+            },
+            {
+              "text": "Program",
+              "xmin": 2206,
+              "ymin": 3124,
+              "xmax": 2349,
+              "ymax": 3157
+            },
+            {
+              "text": "Model",
+              "xmin": 107,
+              "ymin": 3200,
+              "xmax": 252,
+              "ymax": 3234
+            },
+            {
+              "text": "Institute",
+              "xmin": 252,
+              "ymin": 3199,
+              "xmax": 416,
+              "ymax": 3234
+            },
+            {
+              "text": "of",
+              "xmin": 431,
+              "ymin": 3199,
+              "xmax": 473,
+              "ymax": 3235
+            },
+            {
+              "text": "Engineering",
+              "xmin": 486,
+              "ymin": 3199,
+              "xmax": 733,
+              "ymax": 3244
+            },
+            {
+              "text": "and",
+              "xmin": 750,
+              "ymin": 3201,
+              "xmax": 826,
+              "ymax": 3234
+            },
+            {
+              "text": "Technology",
+              "xmin": 839,
+              "ymin": 3200,
+              "xmax": 1086,
+              "ymax": 3244
+            },
+            {
+              "text": "Secured",
+              "xmin": 1587,
+              "ymin": 3201,
+              "xmax": 1726,
+              "ymax": 3228
+            },
+            {
+              "text": "first",
+              "xmin": 1741,
+              "ymin": 3201,
+              "xmax": 1800,
+              "ymax": 3228
+            },
+            {
+              "text": "Position",
+              "xmin": 1813,
+              "ymin": 3202,
+              "xmax": 1943,
+              "ymax": 3228
+            },
+            {
+              "text": "in",
+              "xmin": 1958,
+              "ymin": 3201,
+              "xmax": 1980,
+              "ymax": 3227
+            },
+            {
+              "text": "Coding",
+              "xmin": 1996,
+              "ymin": 3201,
+              "xmax": 2116,
+              "ymax": 3237
+            },
+            {
+              "text": "Hackathon",
+              "xmin": 2130,
+              "ymin": 3201,
+              "xmax": 2310,
+              "ymax": 3228
+            },
+            {
+              "text": "06/2016",
+              "xmin": 104,
+              "ymin": 3261,
+              "xmax": 212,
+              "ymax": 3282
+            },
+            {
+              "text": "05/2020",
+              "xmin": 244,
+              "ymin": 3262,
+              "xmax": 355,
+              "ymax": 3285
+            },
+            {
+              "text": "Jammu",
+              "xmin": 1328,
+              "ymin": 3262,
+              "xmax": 1428,
+              "ymax": 3282
+            },
+            {
+              "text": "held",
+              "xmin": 1588,
+              "ymin": 3243,
+              "xmax": 1658,
+              "ymax": 3269
+            },
+            {
+              "text": "in",
+              "xmin": 1674,
+              "ymin": 3242,
+              "xmax": 1698,
+              "ymax": 3268
+            },
+            {
+              "text": "IIT-Jammu",
+              "xmin": 1714,
+              "ymin": 3243,
+              "xmax": 1888,
+              "ymax": 3269
+            },
+            {
+              "text": "(2019",
+              "xmin": 1902,
+              "ymin": 3242,
+              "xmax": 1987,
+              "ymax": 3275
+            },
+            {
+              "text": "Courses",
+              "xmin": 104,
+              "ymin": 3310,
+              "xmax": 210,
+              "ymax": 3331
+            },
+            {
+              "text": "o",
+              "xmin": 102,
+              "ymin": 3352,
+              "xmax": 115,
+              "ymax": 3365
+            },
+            {
+              "text": "Computer",
+              "xmin": 142,
+              "ymin": 3352,
+              "xmax": 295,
+              "ymax": 3383
+            },
+            {
+              "text": "Science",
+              "xmin": 306,
+              "ymin": 3352,
+              "xmax": 425,
+              "ymax": 3376
+            },
+            {
+              "text": "73.8%",
+              "xmin": 459,
+              "ymin": 3352,
+              "xmax": 542,
+              "ymax": 3379
+            }
+          ],
+          "raw_text": "Akshita Sharma Machine Learning Engineer Machine Learning Engineer skilled ir developing and productionizing robust solutions using NLP techniques for deep learning applications Proficient in Natural Language Processing (NLP techniques with a record of implementing effective models for language- relatec tasks Skilled in the technical nuances of prompt engineering demonstrating a strong command of machine learning principles to drive innovative solutions akshita horizonagmailcom +919682667547 C o Bangalore India in linkedincom/in/akshita-sharma -707a91134 WORK EXPERIENCE SKILLS Machine Learning Engineer NLP Deep Learning GenAl Engati 11/2022 Present Bangalore Prompt Engineering TensorFlow Achievements/ Tasks Analyzer service integrates Hugging Face Microservice Python o Designed and developed a Sentiment that with our system through an established Kafka pipeline This service feds user queries to System Twitter Roberta sentiment model for Design our specific product use case This feature allows user to analyze the sentiments of their end users Machine Learning Techniques : Ir charge of developing a pipeline to specifically support the Bahasa language a dedicated service was established researched models such as paraphrase multilingual-mpnet-base-v2 all-mini-l12-v2 and others o Developed an Al feature that allows product users to generate summaries for entire WORKED ON conversations with end-users with the additional capability of obtaining explanations for specific end -user queries This involved the creation of REST APIs Sentence Transformers integrating GPT APIS through the OpenAl library, and prompt techniques in the backend AI/ML solutions for E.com Medical etc o Researched and developed the Generative AlDocusense feature allow ving users to input document files We create embedding chunks of documents and store in the Large Language Models LI Chroma DB While searching the user's query gets rephrased, and we generate an embedding to calculate semantic similarity and with an appropriate prompt finally LangChain provide ar adequate response The LangChain framework is used for Qdrant implementatior o Responsible for developing Google Palm pipeline for Generative Al Docusense SC Maria DB that customers don't have to migrate their data to Openai This involvec the creatior of REST APIs in Python which integrates with vertex ai sdk to process the incoming Redis user document content and returr the appropriate response This was implemented using the LangChain framework and custom prompts Argilla o Researched and migrated Qdrant a vector database to a newer version in which we store data on variant levels of customer-specific products This required us to refactor the existing Qdrant pipeline which was earlier causi sing processing bottlenecks This improved the overall NER search and filter capabilities of PUBLICATIONS customer data and we also improved our pipeline latency by 100% Sharma Akshita et al. \"Comparative evaluation of Research deep dense sequential and Intern deep dense transfer learning models for Shri Mata Vaishno Devi University suicidal emotion prediction Concurrency and 06/2022 11/2022 Jammu Computation Practice and Experience (2023) Achievements. / Tasks e7745 o Gathered extensive text data from Reddit. employing NLP libraries for data Kaushik Baijnath et al. \"Machine Learning preprocessino Conducted text classification analysis using diverse pre -trained and Model for Sentiment Analysis on Mental deep learning models including BERT. Robert ALBERT. RNN. CNN. and BILSTM Health Issues. 2023 15th International o Explored various classical machine learning algorithms and Stacking to enhance the Conference on Computer and Automation performance of the top- performing classifier. for classifying the sentiment on humar Engineering (ICCAE). IEEE 2023 blogs Sharma Akshita and Baiinath Kaushik Systematic Review of Learning Models for Suicidal Ideation on Social Media EDUCATION Proceedings of International Conference on Recent Innovations in Computing ICRIC 2022 M Tech Volume 1 Singapore Springer Nature Shri Mata Vaishno Devi University Singapore 2023 06/2020 05/2022 Jammu Courses o Computer Science 8.65 CGPA ACHIEVMENTS B. Tech Secured first position in M.Tech CSE Program Model Institute of Engineering and Technology Secured first Position in Coding Hackathon 06/2016 05/2020 Jammu held in IIT-Jammu (2019 Courses o Computer Science 73.8% "
+        }
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
